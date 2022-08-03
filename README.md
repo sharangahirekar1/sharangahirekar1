@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m currently working on Full stack web applications.
 - 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on Single Page Applications, Design systems
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with Firebase
 - 💬 Ask me about tech
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sharangahirekar1-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharangahirekar1/)
 - 😄 Pronouns: he/him
