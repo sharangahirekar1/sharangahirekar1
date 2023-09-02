@@ -28,13 +28,9 @@
 ### :man_technologist: About Me : 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🔭 I’m currently working on Full stack web applications.
-- 🌱 I’m currently learning MERN stack.
-- 👯 I’m looking to collaborate on Single Page Applications, Design systems
-- 🤔 I’m looking for help with Firebase
+- 👯 I’m looking to collaborate on Single Page Applications, Full Stack Applications, and Progressive Web Applications
 - 💬 Ask me about tech
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sharangahirekar1-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharangahirekar1/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Moore's Law states that the number of transistors on a microchip doubles about every two years.
 
 ---
 
@@ -62,5 +58,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharangahirekar1&theme=flag-india&hide_border=true)](https://git.io/streak-stats)
 [![Sharang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharangahirekar1)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharangahirekar1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
