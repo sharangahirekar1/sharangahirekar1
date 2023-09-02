@@ -32,26 +32,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 💬 Ask me about tech
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sharangahirekar1-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharangahirekar1/)
 
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div align='center'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width='50px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg' width='50px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg' width='50px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' width='50px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg' width='50px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg' width='50px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' width='50px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width='50px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='50px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg' width='50px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg' width='50px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg' width='50px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' width='50px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg' width='50px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' width='50px'/>
-</div>
 
 ---
 
