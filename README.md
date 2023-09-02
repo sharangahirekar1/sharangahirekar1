@@ -33,8 +33,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sharangahirekar1-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharangahirekar1/)
 
 
----
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharangahirekar1&theme=flag-india&hide_border=true)](https://git.io/streak-stats)
 [![Sharang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharangahirekar1)](https://github.com/anuraghazra/github-readme-stats)
