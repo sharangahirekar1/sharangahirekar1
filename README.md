@@ -37,3 +37,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharangahirekar1&theme=flag-india&hide_border=true)](https://git.io/streak-stats)
 [![Sharang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharangahirekar1)](https://github.com/anuraghazra/github-readme-stats)
 
+Full Stack Web Developer | HTML | CSS | Javascript | React | Node | Express
