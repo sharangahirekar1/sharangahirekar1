@@ -10,9 +10,9 @@
   <a href="https://www.quora.com/profile/Sharang-Ahirekar">
     <img src="https://img.shields.io/badge/Quora-white?style=for-the-badge&logo=Quora&logoColor=red" alt="Quora Badge"/>
   </a>
-  <a href="https://twitter.com/Sharang010">
+  <!-- <a href="https://twitter.com/Sharang010">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 
 <div align='center'><img src="https://komarev.com/ghpvc/?username=sharangahirekar1" alt="profile-counter"/></div>
